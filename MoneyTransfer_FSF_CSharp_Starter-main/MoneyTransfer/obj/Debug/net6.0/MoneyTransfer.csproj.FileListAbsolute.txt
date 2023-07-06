@@ -1,0 +1,5 @@
+C:\Users\diego\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.csproj.AssemblyReference.cache
+C:\Users\diego\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.AssemblyInfoInputs.cache
+C:\Users\diego\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.AssemblyInfo.cs
+C:\Users\diego\Downloads\MoneyTransfer_FSF_CSharp_Starter-main\MoneyTransfer\obj\Debug\net6.0\MoneyTransfer.csproj.CoreCompileInputs.cache
